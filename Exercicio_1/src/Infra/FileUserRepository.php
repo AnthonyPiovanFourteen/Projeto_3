@@ -32,4 +32,34 @@ final class FileUserRepository implements UserRepository
             FILE_APPEND
         );
     }
-}
+
+     /**
+     * @return array<array{name:string,email:string,password:string}>
+     */
+    public function findAll(): array
+    {
+        if (!file_exists($this->filePath)) {
+            return [];
+        }
+
+        $content = file_get_contents($this->filePath);
+        if (empty(trim($content))) {
+            return [];
+        }
+
+        $lines = explode(PHP_EOL, trim($content));
+        $users = [];
+
+        foreach ($lines as $line) {
+            if (!empty(trim($line))) {
+                $user = json_decode($line, true);
+                if ($user !== null) {
+                    $users[] = $user;
+                }
+            }
+        }
+
+        return $users;
+    }
+
+    }
