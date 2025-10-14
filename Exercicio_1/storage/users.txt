@@ -1,0 +1,7 @@
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$3UKV.xYvI7zChsNtXVHGV.OwP\/oNSxaBwN4Lj6DwTRUwb3.N4Ml0y"}
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$LSnx7uyHq4cu7oEVxR\/lweOcqKYTPtBclvn592YNbUNxOpjh.3FCa"}
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$2ljwFlEqfxWkmID3mnoLsuqr2.FaTgkoH0Fy.u5lDsrLbXi2vMtGK"}
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$f0Yxqz5RUQ0ovsq1DjD6HuWeDhLw8qG6GVvz32Z5xd7Y0J6JaC2.u"}
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$VIy\/JHgfyI12FnTrLAkSd.nvZLzEkzKixWJY1HUFTr3yUbxhh8ps2"}
+{"name":"João","email":"joao@unimar.br","password":"$2y$10$2bt4HC3pmJvJLNqswvLpQOKCdPhTemWE95Hz71dshtIGo7\/Rccr4W"}
+{"name":"Maria","email":"maria@unimar.br","password":"$2y$10$UIil6br7BbZdEKULP008fudPlwhBuON965AlNOavEmM9yrDEdUtci"}
