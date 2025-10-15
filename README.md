@@ -1,5 +1,9 @@
 # Exercícios — Complemento do projeto atual e PRD do zero (SRP em PHP) 
 
+## Integrantes do Grupo:
+- Anthony Gabriel Piovan Dos Santos - RA 1987602
+- Wendell Pereira Ribeiro - RA 2004501
+
 ## Projetos Incluídos
 
 1.  **`solid-srp` (Com pasta nomeada Exercicio_1)**: Um sistema simples de **listagem de usuários**. Foca em estabelecer a base da arquitetura em camadas para um caso de uso de leitura de dados.
