@@ -55,7 +55,3 @@ Ambos os projetos seguem a mesma estrutura de quatro camadas lógicas:
 5.  **Acessar a tela de listagem, após cadastro:**
     * Exemplo de URL de acesso para a Atividade 1: `http://localhost/Projeto_3-main/Exercicio_1/public/users.php`
     * Exemplo de URL de acesso para a Atividade 1: `http://localhost/Projeto_3-main/Exercicio_2/public/create.php`
-
-## Conclusão
-
-Estes projetos demonstram que a complexidade de uma funcionalidade não está apenas no seu código, mas na forma como ele se integra a uma arquitetura coesa. Ao seguir rigorosamente a separação de responsabilidades, o resultado é um sistema resiliente a mudanças, mais fácil de entender e de manter a longo prazo.
