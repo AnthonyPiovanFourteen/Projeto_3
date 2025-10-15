@@ -1,0 +1,17 @@
+{
+    "name": "aluno/solid-srp-demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anthony.santos",
+            "email": "1987602@unimar.br"
+        }
+    ],
+    "require": {}
+}
